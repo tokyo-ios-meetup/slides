@@ -1,48 +1,57 @@
-# Let's Get Started
+![](assets/img/logo.png)
+
+11:00 am - 11:15 am: Introduction
+11:15 am - 11:45 am: Leonard Choo - "SFC Bustimer"
+11:45 am - 12:15 pm: Damian Pasko - "Scripting with Swift"
+12:15 pm - 1:00 pm: Discussion
 
 ---
 
-## Add Some Slide Candy
-
-![](assets/img/presentation.png)
+# Tokyo iOS Meetup
+## April 2019
 
 ---
-@title[Customize Slide Layout]
 
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
+# Greet someone near you.
 
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
+---
 
----?color=#E58537
-@title[Add A Little Imagination]
+# ...
 
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
+---
 
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
+# Other Topics?
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
+---
 
----?image=assets/img/presenter.jpg
+# Upcoming
 
-@snap[north span-100 headline]
-## Now It's Your Turn
-@snapend
+May 11th
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+- https://trello.com/invite/b/W78vnSzj/8e57f882ba6126cdd638d45e89e9fa09/may-ios-meetup
+
+June 8th
+
+- https://trello.com/invite/b/3QUbHN1R/5ad3613387be0f37028b7811c3e64de8/june-ios-meetup
+
+---
+
+# Is anyone looking to hire?
+
+---
+
+# Is anyone looking for work?
+
+---
+
+![](assets/img/cmercari.png)
+
+---
+
+# Connect
+
+- Twitter: @tokyoiosmeetup
+- Facebook: Tokyo iOS Meetup
+- YouTube: https://www.youtube.com/tokyoiosmeetup
+- Slack: https://tokyo-ios-meetup-slack-signup.herokuapp.com
+- Github: tokyo-ios-meetup
