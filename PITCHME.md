@@ -20,6 +20,22 @@
 
 ---
 
+## Swift 5
+
+---
+
+## Apple News+
+
+---
+
+## Apple Games Subscription
+
+---
+
+## Apple TV Programs
+
+---
+
 # Other Topics?
 
 ---
@@ -28,11 +44,11 @@
 
 May 11th
 
-- https://trello.com/invite/b/W78vnSzj/8e57f882ba6126cdd638d45e89e9fa09/may-ios-meetup
+- https://bit.ly/2UVbN8d
 
 June 8th
 
-- https://trello.com/invite/b/3QUbHN1R/5ad3613387be0f37028b7811c3e64de8/june-ios-meetup
+- https://bit.ly/2ZASSya
 
 ---
 
