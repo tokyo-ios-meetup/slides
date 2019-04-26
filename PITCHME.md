@@ -27,10 +27,20 @@
 # Upcoming
 
 May 11th
+
+@ul
+
 - https://trello.com/invite/b/W78vnSzj/8e57f882ba6126cdd638d45e89e9fa09/may-ios-meetup
 
+@ulend
+
 June 8th
+
+@ul
+
 - https://trello.com/invite/b/3QUbHN1R/5ad3613387be0f37028b7811c3e64de8/june-ios-meetup
+
+@ulend
 
 ---
 
@@ -48,7 +58,11 @@ June 8th
 
 # Connect
 
+@ul
+
 - Twitter: @tokyoiosmeetup
 - YouTube: https://www.youtube.com/tokyoiosmeetup
 - Slack: https://tokyo-ios-meetup-slack-signup.herokuapp.com
 - Github: tokyo-ios-meetup
+
+@ulend
