@@ -1,12 +1,9 @@
 ![](assets/img/logo.png)
 
-11:00 am - 11:15 am: Introduction
-
-11:15 am - 11:45 am: Leonard Choo - "SFC Bustimer"
-
-11:45 am - 12:15 pm: Damian Pasko - "Scripting with Swift"
-
-12:15 pm - 1:00 pm: Discussion
+<p class="text-left">11:00 am - 11:15 am: Introduction</p>
+<p class="text-left">11:15 am - 11:45 am: Leonard Choo - "SFC Bustimer"</p>
+<p class="text-left">11:45 am - 12:15 pm: Damian Pasko - "Scripting with Swift"</p>
+<p class="text-left">12:15 pm - 1:00 pm: Discussion</p>
 
 ---
 
@@ -31,11 +28,7 @@
 
 May 11th
 
-@ul
-
 - https://trello.com/invite/b/W78vnSzj/8e57f882ba6126cdd638d45e89e9fa09/may-ios-meetup
-
-@ulend
 
 June 8th
 
