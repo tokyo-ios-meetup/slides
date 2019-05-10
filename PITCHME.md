@@ -30,18 +30,6 @@
 
 ---
 
-# Other Topics?
-
----
-
-# Upcoming
-
-June 8th
-
-- https://bit.ly/2ZASSya
-
----
-
 # MongoDB Acquires Realm
 
 - https://www.mongodb.com/blog/post/mongodb-and-realm-make-it-easy-to-work-with-data-together
@@ -51,6 +39,18 @@ June 8th
 # Developers Supporting Marzipan
 
 - https://twitter.com/stroughtonsmith/status/1122643714927681537
+
+---
+
+# Other Topics?
+
+---
+
+# Upcoming
+
+June 8th
+
+- https://bit.ly/2ZASSya
 
 ---
 
