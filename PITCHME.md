@@ -1,9 +1,9 @@
 ![](assets/img/logo.png)
 
 <p class="text-left">11:00 am - 11:15 am: Introduction</p>
-<p class="text-left">111:15 am - 11:45 am: Lee Hericks - "iOS Push Notifications"</p>
-<p class="text-left">111:45 am - 12:15 pm: Matt Gillingham - "Some stuff I was thinking about state machines and types"</p>
-<p class="text-left">112:15 pm - 1:00 pm: Discussion</p>
+<p class="text-left">11:15 am - 11:45 am: Lee Hericks - "iOS Push Notifications"</p>
+<p class="text-left">11:45 am - 12:15 pm: Matt Gillingham - "Some stuff I was thinking about state machines and types"</p>
+<p class="text-left">12:15 pm - 1:00 pm: Discussion</p>
 
 ---
 
