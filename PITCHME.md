@@ -1,14 +1,14 @@
 ![](assets/img/logo.png)
 
 <p class="text-left">11:00 am - 11:15 am: Introduction</p>
-<p class="text-left">11:15 am - 11:45 am: Leonard Choo - "SFC Bustimer"</p>
-<p class="text-left">11:45 am - 12:15 pm: Damian Pasko - "Scripting with Swift"</p>
-<p class="text-left">12:15 pm - 1:00 pm: Discussion</p>
+<p class="text-left">11:15 am - 11:45 am: Khaled ElMorabea - "Testing experience @ Instabug"</p>
+<p class="text-left">11:45 am - 12:45 pm: Matt Gillingham - "WWDC 2019 Discussion"</p>
+<p class="text-left">12:45 pm - 1:00 pm: Discussion</p>
 
 ---
 
 # Tokyo iOS Meetup
-## April 2019
+## June 2019
 
 ---
 
@@ -20,19 +20,83 @@
 
 ---
 
+# MacPro
+
+---
+
+# iPadOS
+- Split View
+- Safari for iPad
+- USB Mouse Support
+
+---
+
+# iOS 13
+
+---
+
+# MacOS Catalina
+- Sidecar
+- Catalyst
+- Scripting Language Runtimes Removed
+- zsh replaces bash
+- Additional security and protection
+
+---
+
+# WatchOS 6
+
+---
+
+# XCode 11
+
+---
+
+# Background Tasks
+
+---
+
+# Combine
+
+---
+
+# CryptoKit
+
+---
+
+# DriverKit
+
+---
+
+# Logging
+
+---
+
+# SF Symbols
+
+---
+
+# SwiftUI
+
+---
+
+# Core Data / CloudKit Sync
+
+---
+
+# UIWindowScene
+
+---
+
 # Other Topics?
 
 ---
 
 # Upcoming
 
-May 11th
+July 20th
 
-- https://trello.com/invite/b/W78vnSzj/8e57f882ba6126cdd638d45e89e9fa09/may-ios-meetup
-
-June 8th
-
-- https://trello.com/invite/b/3QUbHN1R/5ad3613387be0f37028b7811c3e64de8/june-ios-meetup
+- https://trello.com/invite/b/lPyRH1u0/b378ddcc3fd61390235aac8e7b1ed8fb/july-ios-meetup
 
 ---
 
