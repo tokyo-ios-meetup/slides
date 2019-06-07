@@ -98,6 +98,10 @@ July 20th
 
 - https://trello.com/invite/b/lPyRH1u0/b378ddcc3fd61390235aac8e7b1ed8fb/july-ios-meetup
 
+August 17th
+
+- https://trello.com/invite/b/j7P1B7dl/e904ef919c46412875268f159066a8ff/august-ios-meetup
+
 ---
 
 # Is anyone looking to hire?
