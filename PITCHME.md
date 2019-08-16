@@ -2,9 +2,8 @@
 
 <p class="text-left">11:00 am - 11:15 am: Introduction</p>
 <p class="text-left">11:15 am - 11:45 am: Florian Ludot - "An Unexpected Journey"</p>
-<p class="text-left">11:45 am - 12:15 pm: Bhupendra Singh - "Swift UI"</p>
-<p class="text-left">12:15 pm - 12:45 pm: Jean-Baptiste Dominguez - "Let's Play with Bitcoin Cash"</p>
-<p class="text-left">12:45 pm - 1:00 pm: Discussion</p>
+<p class="text-left">11:45 am - 12:15 pm: Jean-Baptiste Dominguez - "Let's Play with Bitcoin Cash"</p>
+<p class="text-left">12:15 pm - 1:00 pm: Discussion</p>
 
 ---
 
