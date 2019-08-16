@@ -1,14 +1,15 @@
 ![](assets/img/logo.png)
 
 <p class="text-left">11:00 am - 11:15 am: Introduction</p>
-<p class="text-left">11:15 am - 11:45 am: @aymenworks - "Some explorations with CoreText"</p>
-<p class="text-left">11:45 am - 12:15 pm: Josh Kaplan - "Continuous Integration"</p>
-<p class="text-left">12:15 pm - 1:00 pm: Discussion</p>
+<p class="text-left">11:15 am - 11:45 am: Florian Ludot - "An Unexpected Journey"</p>
+<p class="text-left">11:45 am - 12:15 pm: Bhupendra Singh - "Swift UI"</p>
+<p class="text-left">12:15 pm - 12:45 pm: Jean-Baptiste Dominguez - "Let's Play with Bitcoin Cash"</p>
+<p class="text-left">12:45 pm - 1:00 pm: Discussion</p>
 
 ---
 
 # Tokyo iOS Meetup
-## July 2019
+## August 2019
 
 ---
 
@@ -26,13 +27,9 @@
 
 # Upcoming
 
-August 17th
-
-- https://trello.com/invite/b/j7P1B7dl/e904ef919c46412875268f159066a8ff/august-ios-meetup
-
 September 14th
 
-- 
+- https://trello.com/b/RaBQH2YX/september-ios-meetup
 
 ---
 
