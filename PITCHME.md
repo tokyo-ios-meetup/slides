@@ -35,7 +35,7 @@ October 12th
 
 # Speaker Volunteers
 
-![](assets/img/logo.png)
+![](assets/img/frame.png)
 
 ---
 
