@@ -9,7 +9,7 @@
 ---
 
 # Tokyo iOS Meetup
-## September 2019
+## September 201
 
 ---
 
