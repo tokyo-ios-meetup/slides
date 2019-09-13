@@ -33,6 +33,12 @@ October 12th
 
 ---
 
+# Speaker Volunteers
+
+![](assets/img/logo.png)
+
+---
+
 # Is anyone looking to hire?
 
 ---
