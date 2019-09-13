@@ -1,14 +1,15 @@
 ![](assets/img/logo.png)
 
 <p class="text-left">11:00 am - 11:15 am: Introduction</p>
-<p class="text-left">11:15 am - 11:45 am: Florian Ludot - "An Unexpected Journey"</p>
-<p class="text-left">11:45 am - 12:15 pm: Jean-Baptiste Dominguez - "Let's Play with Bitcoin Cash"</p>
-<p class="text-left">12:15 pm - 1:00 pm: Discussion</p>
+<p class="text-left">11:15 am - 11:45 am: Thomas Logan - "Making iOS work for people with disabilities"</p>
+<p class="text-left">11:45 am - 12:15 pm: Kaz Yoshikawa - "Verifying receipts locally (In app purchase)"</p>
+<p class="text-left">12:15 pm - 12:45 pm: Matt Gillingham - "Organizing a Meetup"</p>
+<p class="text-left">12:45 pm - 1:00 pm: Discussion</p>
 
 ---
 
 # Tokyo iOS Meetup
-## August 2019
+## September 2019
 
 ---
 
@@ -26,9 +27,9 @@
 
 # Upcoming
 
-September 14th
+October 12th
 
-- https://trello.com/b/RaBQH2YX/september-ios-meetup
+- https://trello.com/b/GiAPIQXV/october-ios-meetup
 
 ---
 
